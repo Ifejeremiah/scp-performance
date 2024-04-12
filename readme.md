@@ -13,7 +13,7 @@ resources:
     cpu: 500m
     memory: 500Mi
 ```
-With an average of 39 minutes to process records from *new* to *scheduled*.
+With an average of 39 minutes to process 10,000 records from *new* to *scheduled*.
 
 After increasing resources to: 
 
