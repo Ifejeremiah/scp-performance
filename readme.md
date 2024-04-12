@@ -13,6 +13,7 @@ resources:
     cpu: 500m
     memory: 500Mi
 ```
+With an average of 39 minutes to process records from *new* to *scheduled*.
 
 After increasing resources to: 
 
@@ -25,5 +26,5 @@ resources:
     cpu: '1'
     memory: 1Gi
 ```
-We have this data generated, [view performance](./json/smartcard_uat_dbo_tbl_jobs_01.json).
+We have generated, [view performance](./json/smartcard_uat_dbo_tbl_jobs_01.json).
 
